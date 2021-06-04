@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tgagn\\OneDrive\\Desktop\\Unreal Projects\\StealthGame\\StealthGame_ProjectBase_4.25\\StealthGame\\Source\\FPSGame\\FPSGame.Build.cs",
+		"C:\\Users\\tgagn\\OneDrive\\Desktop\\Unreal Projects\\StealthGame\\StealthGame_ProjectBase_4.25\\StealthGame\\Source\\FPSGame.Target.cs",
+		"C:\\Users\\tgagn\\OneDrive\\Desktop\\Unreal Projects\\StealthGame\\StealthGame_ProjectBase_4.25\\StealthGame\\Source\\FPSGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

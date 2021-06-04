@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSGame",
+			"Path": "C:\\Users\\tgagn\\OneDrive\\Desktop\\Unreal Projects\\StealthGame\\StealthGame_ProjectBase_4.25\\StealthGame\\Source\\FPSGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSGameEditor",
+			"Path": "C:\\Users\\tgagn\\OneDrive\\Desktop\\Unreal Projects\\StealthGame\\StealthGame_ProjectBase_4.25\\StealthGame\\Source\\FPSGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
