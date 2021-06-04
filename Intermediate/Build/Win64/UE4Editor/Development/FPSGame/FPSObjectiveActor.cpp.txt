@@ -1,6 +1,14 @@
 C:\Users\tgagn\OneDrive\Desktop\Unreal Projects\StealthGame\StealthGame_ProjectBase_4.25\StealthGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
 C:\Users\tgagn\OneDrive\Desktop\Unreal Projects\StealthGame\StealthGame_ProjectBase_4.25\StealthGame\Source\FPSGame\Public\FPSObjectiveActor.h
 C:\Users\tgagn\OneDrive\Desktop\Unreal Projects\StealthGame\StealthGame_ProjectBase_4.25\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSObjectiveActor.generated.h
+C:\Users\tgagn\OneDrive\Desktop\Unreal Projects\StealthGame\StealthGame_ProjectBase_4.25\StealthGame\Source\FPSGame\Public\FPSCharacter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\tgagn\OneDrive\Desktop\Unreal Projects\StealthGame\StealthGame_ProjectBase_4.25\StealthGame\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
